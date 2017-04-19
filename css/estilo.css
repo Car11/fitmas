@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document 
+contenido: #f2b705
+encabezado: #f29f05
+equivalentes: #d97904
+piepagina: #733702
+auxiliar: #401801
+*/
+/*Elementos de neutralidad*/
+header, article, footer, section, nav, aside{
+	display:block;
+	margin:0;
+	padding:0; 
+}
+html{
+	margin:0;
+	padding:0;
+	background: #1e5799; 
+}
+body{
+	margin:0 auto;
+	font-family:Verdana, Geneva, sans-serif;
+}
+p, h1, h2, h3{
+	margin:0;
+	padding:0;
+}
+
+/*Etiquetas estructurales*/
